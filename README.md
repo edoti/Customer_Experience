@@ -50,3 +50,17 @@ Bu amaçla iki farklı regresyon modeli (Random Forest ve Decision Tree) kullan�
 
 ---
 
+
+## ✅ Kullanılan Kütüphaneler
+
+- pandas, numpy
+- matplotlib, seaborn
+- scikit-learn
+
+---
+
+## ✍️ Hazırlayan
+
+Eda Korkmaz  
+2025  
+
